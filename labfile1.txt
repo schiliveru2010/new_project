@@ -1,3 +1,2 @@
 This is new ladfile1
-This is new labfile3
 Thsi is new labfile4
